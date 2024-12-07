@@ -1,0 +1,10 @@
+numpy
+pandas
+tensorflow
+xgboost
+scikit-learn
+imblearn
+fastapi
+"uvicorn[standard]"
+Jinja2
+python-multipart
